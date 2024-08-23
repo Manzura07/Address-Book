@@ -7,7 +7,7 @@ enum KontaktTuri
 {
     Dost,
     Oila,
-    Hamkasb,
+    Xamkasb,
     Boshqa
 }
 
